@@ -5,7 +5,7 @@ import re
 def main():
     folder_name = "UNITED ENTERPRISE,DHULE"
     file_name = "PW"
-
+    Stockiest_name = folder_name
     text_file_path = 'Scrapped_data/JUNE/MAHARASHTRA/' + folder_name + '/' + file_name + '.txt'
 
     text = parse_text_file(text_file_path)
@@ -18,6 +18,7 @@ def main():
         match = re.search(pattern, line)
 
         if match:
+            T_medical_name = match.group(1)
             print("Medical Name: ",match.group(1), "\n")
         
         else:

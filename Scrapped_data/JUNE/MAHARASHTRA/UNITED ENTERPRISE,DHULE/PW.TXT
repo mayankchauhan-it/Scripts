@@ -1,0 +1,94 @@
+@
+UNITED ENTERPRISE,DHULE                                                            Printed On: 03/07/2023
+Customer-Wise Product-Wise Sales  From : 01/06/2023 To : 30/06/2023                        Page No.  :   1
+Agency : [1181] BIOS LAB [ PUNE]              
+----------------------------------------------------------------------------------------------------------
+Product Name                     Pack   Inv/DM No   Date    Batch No.        Qty     Free    Rate    Value
+----------------------------------------------------------------------------------------------------------
+Customer: [A254] AVANI MEDICAL STORES, DHULE                                 
+==============================================
+11810003 B-CLAMI TAB             10     INV   7162 15/06/23 GT200769          20        6  160.71  3214.20
+
+Customer: [A333] SHRI SAI MEDICAL & GEN STORES, ANANDKHEDE                   
+============================================================
+11810006 BIOKET -200TAB          10     INV   6048 03/06/23 GT200650           1            96.42    96.42
+
+Customer: [F014] FIVE STAR PHARMA, DHULE                                     
+==========================================
+11810002 ALVIZINE 5 MG TAB       10     INV   6068 03/06/23 GT201203           1            28.28    28.28
+
+Customer: [I013] SHRI ECHHA MEDICAL & GENRAL ST, DHULE .9765363181           
+====================================================================
+11810007 IOXI-30  TAB            10     INV   7738 21/06/23 PT23010            3            54.91   164.73
+
+Customer: [J039] JAWAHAR MEDICAL STORES SHAHADA, SHAHADA. 9623824909         
+======================================================================
+11810002 ALVIZINE 5 MG TAB       10     INV   6221 05/06/23 GT201203          10        1   28.28   282.80
+11810005 BIO-ITRA 100            10     INV   7269 16/06/23 G22BAA002       5.50     0.50  128.57   707.14
+11810033 F DIN 180               10     INV   7220 15/06/23 MT220649        5.50     0.50   96.43   530.37
+                                                                                                 ---------
+                                                                                          Total:   1520.30
+                                                                                                 ---------
+Customer: [M142] MATHAMBA MEDICAL STORES, PAROLA                             
+==================================================
+11810002 ALVIZINE 5 MG TAB       10     INV   5857 01/06/23 GT201203           1            28.28    28.28
+
+Customer: [N061] NAVKAR JAN AUSHADHI MEDICAL ST, DHULE                       
+========================================================
+11810007 IOXI-30  TAB            10     INV   6020 03/06/23 PT23010            2            54.91   109.82
+
+Customer: [S263] SHRIRAM MEDICAL, NER.                                       
+========================================
+11810007 IOXI-30  TAB            10     INV   5951 02/06/23 PT23010            1            54.91    54.91
+
+Customer: [S721] SHRI SHATAYU MEDICALS, DHULE                                
+===============================================
+11810003 B-CLAMI TAB             10     INV   8285 27/06/23 GT200769           1           160.71   160.71
+
+Customer: [S915] SNEHAL  MEDICAL  STORES,                                    
+============================================
+11810002 ALVIZINE 5 MG TAB       10     INV   6414 07/06/23 GT201203           2            28.28    56.56
+11810005 BIO-ITRA 100            10     INV   6414 07/06/23 G22BAA002          3           128.57   385.71
+                                                                                                 ---------
+                                                                                          Total:    442.27
+                                                                                                 ---------
+Customer: [S931] SALAFI MEDICAL STORES, DHULE                                
+===============================================
+11810022 BIODUTA TAB             10     INV   5838 01/06/23 RT6725             3            70.71   212.13
+
+Customer: [S986] SHRIRAM MED & DIST, DHULE                                   
+============================================
+11810002 ALVIZINE 5 MG TAB       10     INV   7111 14/06/23 GT201203          10        1   28.28   282.80
+11810005 BIO-ITRA 100            10     INV   7279 16/06/23 G22BAA002          2           128.57   257.14
+11810012 ZALOTER CREAM           30GM   INV   7393 17/06/23 OS2003B            1           160.72   160.72
+                                                                                                 ---------
+                                                                                          Total:    700.66
+                                                                                                 ---------
+UNITED ENTERPRISE,DHULE                                                            Printed On: 03/07/2023
+Customer-Wise Product-Wise Sales  From : 01/06/2023 To : 30/06/2023                        Page No.  :   2
+Agency : [1181] BIOS LAB [ PUNE]              
+----------------------------------------------------------------------------------------------------------
+Product Name                     Pack   Inv/DM No   Date    Batch No.        Qty     Free    Rate    Value
+----------------------------------------------------------------------------------------------------------
+Customer: [S999] SHRIRAM MEDICAL STORES, DHULE .08087188088.ROHIT            
+===================================================================
+11810033 F DIN 180               10     INV   7197 15/06/23 MT220649           1            96.43    96.43
+
+Customer: [T039] TULSI MEDICAL STORE, SHAHADA                                
+===============================================
+11810005 BIO-ITRA 100            10     INV   6861 12/06/23 G22BAA002         10        1  128.57  1285.70
+
+Customer: [W014] WELLCARE PHARMACY & LIFESTYLE, SANTOSHI MATA DHULE          
+=====================================================================
+11810010 UV CACHER 30GM          30GM   INV   8513 29/06/23 CL213              1           305.08   305.08
+
+Customer: [Y056] YASH MEDICENE SHOPEE SURGICAL, DHULIA                       
+========================================================
+11810003 B-CLAMI TAB             10     INV   7925 22/06/23 GT200769           2           160.71   321.42
+11810027 CAPILLUS F SOLUTION     60ML   INV   8428 28/06/23 CK22001            1           578.57   578.57
+                                                                                                 ---------
+                                                                                          Total:    899.99
+                                                                                                 ---------
+                                                                                   Total Value :   9319.91
+----------------------------------------------------------------------------------------------------------
+

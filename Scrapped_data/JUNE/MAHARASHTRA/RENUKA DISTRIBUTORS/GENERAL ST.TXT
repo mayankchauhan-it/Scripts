@@ -1,0 +1,20 @@
+@
+MRENUKA DISTRIBUTORS                     
+Stock & Sales from 01/06/2023 to 30/06/2023 for : BIOS LAB PVT LTD. (MAIN)    Page :   1
+------------------------------------------------------------------------------
+Product Name              Pack   LstSL  Open Recd. Sales Close  Order  Pend   
+------------------------------------------------------------------------------
+ALVIZIME- M TAB           10X1       -   154     -     -   154   -154     -  
+BIOBIL 40 TAB.            10X1       -    38     -     -    38    -38     -  
+BIOTENLY-20 TAB           10X1       -    22     -     -    22    -22     -  
+BIOTENLY-M TAB.           10X1       3     7     -     -     7     -7     -  
+BSOX SYRUP                100ML      -    29     -     -    29    -29     -  
+STELLA 60K DPCO           4X1       48     6    85     -    91    -91     -  
+STELLA 60K TAB.           4X1        3     1     -     -     1     -1     -  
+TELEXA-M50 TAB.           10X1       -     1     -     -     1     -1     -  
+------------------------------------------------------------------------------
+Last Month Sales       2,170.62  Open. Value       19,680.65
+Receipt Value          3,182.00  Sales Value            0.00
+Closing Value         25,090.05  [Order Value +0.00 -25090.05 ]
+------------------------------------------------------------------------------
+ * - Near Expiry Product, # - Scheme On Product 

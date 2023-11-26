@@ -1,0 +1,163 @@
+ABHISHEK DISTRIBUTORS                                                                                                                
+Stock & Sales Statement  For All Branch                                                                                                
+from date 01/08/2023 To : 31/08/2023                                                                                                   
+BIOS LAB DERMA                                                                                                                        
+Run Date : 01/09/2023 02:41 PM  Run at : HEAD OFFICE             Page No : 1                                                           
+---------------------------------------------------------------------------------------------------------------------------------------
+Item Name                     Pack  Opening Receipt Company C.Month Sales C.Month Repl.Goods In Closing LMonth  Sales   Closing Reorder
+                                                     Return   Sale  Inst. FreeSale Qty.Transit  Balance Sales   Value    Value  *      
+---------------------------------------------------------------------------------------------------------------------------------------
+Company : 0352 BIOS LAB DERMA                                                                                                          
+---------------------------------------------                                                                                          
+ACNETRET 10 CAP               10CAP      41       0       0     15      0       0     0       0      26      3    1543    2674    (-4) 
+ACNETRET 20 CAP               10CAP      23       0       0      0      0       0     0       0      23      3       0    2957   (-23) 
+ALVIZINE 10 TAB               10TAB      28       0       0     18      0       0     0       0      10      8     764     424      17 
+ALVIZINE TAB                  10TAB      19       0       0     14      0       0     0       0       5      6     396     141      16 
+B CLAMI TAB                   10TAB      30       1       0     12      0       1     0       0      18     12    1929    2893       0 
+BEZELENE CREAM                15GM       36       1       0     34      0       1     0       0       2     28    6557     386      49 
+BIO AZAPIN TAB                10TAB       0       0       0      0      0       0     0       0       0      0       0       0       0 
+BIO ITRA 100 CAP              10CAP     297     300       0    389      0      32     0       0     176    495   50014   22628     408 
+BIO ITRA 200 CAP              10CAP      48      21       0     23      0       0     0       0      46     39    4066    8148   (-12) 
+BIO LIZOL CREAM               30GM        0       0       0      0      0       0     0       0       0      0       0       0       0 
+BIOBIL 20 TAB                 10TAB      43       0       0     22      0       0     0       0      21     31    1839    1755      12 
+BIOBIL 40 TAB                 10TAB      50       0       0     19      0       0     0       0      31     18    2198    3587    (-2) 
+BIOBIL M TAB                  10TAB      20       0       0      0      0       0     0       0      20      0       0    2186   (-20) 
+BIODUTA TAB                   10TAB      21      40       0     34      0       0     0       0      27     17    2404    1909      24 
+BIOKET 200 TAB                10TAB     104      50       0    100      0       0     0       0      54    136    9642    5207      96 
+BIOKET CREAM                  20GM       10       0       0      0      0       0     0       0      10      0       0     514   (-10) 
+BIOKET S CREAM                20GM        3       5       3      0      0       0     0       0       5      1       0     450    (-5) 
+BIOKET SHAMPOO                75ML        6       5       0      6      0       0     0       0       5      4     771     643       4 
+BIOKET SOAP                   75GM       27       0       0      4      0       0     0       0      23      5     293    1684   (-17) 
+BIOSITA M TAB                 10TAB      10       0       0      0      0       0     0       0      10      0       0    1028   (-10) 
+BIOZA 6 TAB                   10TAB      27       0       0     13      0       0     0       0      14      0    1170    1260       6 
+CAPILLUS F SOLUTION           60ML        6       0       0      3      0       0     0       0       3      1    1736    1736       2 
+CAPILLUS M SOLUTION           60ML        5       0       0      1      0       0     0       0       4      1     514    2057    (-2) 
+CAPILLUS PRO HAIR SERUM       60ML        7       0       0      0      0       0     0       0       7      0       0    3844    (-7) 
+CAPILLUS TAB                  10TAB      11      10       0      9      0       0     0       0      12      0    1043    1391       2 
+D HYC L TAB                   10TAB       0       0       0      0      0       0     0       0       0      0       0       0       0 
+F DIN 180 TAB                 10TAB      13       0       0      2      0       0     0       0      11      0     193    1061    (-8) 
+F TEX SOAP                    75GM       30      20       0     26      0       0     0       0      24     11    1745    1611      15 
+F WASH SHAMPOO                100ML       5       0       0      0      0       0     0       0       5      3       0     694    (-5) 
+IOXI 30 TAB                   10TAB      14       0       0      0      0       0     0       0      14      0       0     769   (-14) 
+IUVINIA CREAM                 50GM        0       0       0      0      0       0     0       0       0      0       0       0       0 
+LOISTO FACE WASH              70ML        5       0       0      1      0       0     0       0       4      0     153     610    (-2) 
+LUWES CREAM                   15GM       14       0       0      2      0       0     0       0      12      4     283    1697    (-9) 
+LUWES FORT TAB                10TAB      21       0       0      0      0       0     0       0      21      3       0    5382   (-21) 
+LUWES LITE CREAM              20GM        0       0       0      0      0       0     0       0       0      0       0       0       0 
+S LAVA FACE WASH              60ML        0       0       0      0      0       0     0       0       0      0       0       0       0 
+TEXFIN OD TAB                 10TAB      52       0       0     11      0       0     0       0      41      6     424    1581   (-24) 
+TEXGLOW GEL                   20GM        7       0       0      0      0       0     0       0       7      1       0     675    (-7) 
+ULIGO CREAM                   50GM       98       4       0     77      0       5     0       0      20     66    9396    2441      96 
+ULIGO LOTION                  100ML     108       1       0     21      0       2     0       0      86     11    4228   17316   (-54) 
+ULIGO SOFT GLOW LOTION        100ML       0       0       0      0      0       0     0       0       0      0       0       0       0 
+UV CACHER CREAM               30GM       12       0       0      2      0       0     0       0      10      0     610    3051    (-7) 
+XEBAC 250 TAB                 6TAB       17       0       0      3      0       0     0       0      14      3     168     783   (-10) 
+XEBAC 500 TAB                 3TAB       54      70       0     85      0       0     0       0      39     55    4753    2181      88 
+ZALOTER CREAM                 30GM        4       5       3      1      0       0     0       0       5      2     148     804    (-4) 
+---------------------------------------------------------------------------------------------------------------------------------------
+Sales values :  108979.49     Closing Values :  110157.31   Reorder Values :   95122.29                                                
+Last Month Sales Value :  116952.36     Free Sales Value :    5480.66                                                                  
+Purchase bill included values : DB-T-1704 Dt. 09/08/2023 ,DB-T1857 Dt. 18/08/2023   Values :   59288.12                                
+Sales and Last Month sales based on (Quantity * Rate) and Others Values on   (Quantity * Ptr)                                          
+Last Month sales between 01/07/2023 And 31/07/2023                                                                                     
+Reorder * = (C.Month Trade Sales * 1.5 ) -  Closing Balance (-ve qty. indicates excess stock.)                                         
+---------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                                      ABHISHEK DISTRIBUTORS                                                                                                                
+Stock & Sales Statement  For All Branch                                                                                                
+from date 01/08/2023 To : 31/08/2023                                                                                                   
+BIOS LAB GENERAL                                                                                                                      
+Run Date : 01/09/2023 02:41 PM  Run at : HEAD OFFICE             Page No : 2                                                           
+---------------------------------------------------------------------------------------------------------------------------------------
+Item Name                     Pack  Opening Receipt Company C.Month Sales C.Month Repl.Goods In Closing LMonth  Sales   Closing Reorder
+                                                     Return   Sale  Inst. FreeSale Qty.Transit  Balance Sales   Value    Value  *      
+---------------------------------------------------------------------------------------------------------------------------------------
+Company : 0353 BIOS LAB GENERAL                                                                                                        
+---------------------------------------------                                                                                          
+ACCUTHYRO 100 MG TAB          120T        2       0       0      0      0       0     0       0       2      0       0     226    (-2) 
+ACCUTHYRO 12.5 MG TAB         120T        2       0       0      0      0       0     0       0       2      0       0     253    (-2) 
+ACCUTHYRO 25 MG TAB           120T        2       0       0      0      0       0     0       0       2      0       0     247    (-2) 
+ACCUTHYRO 50 MG TAB           120T        2       0       0      0      0       0     0       0       2      0       0     176    (-2) 
+ACCUTHYRO 75 MG TAB           120T        2       0       0      0      0       0     0       0       2      0       0     244    (-2) 
+ALVIZINE M TAB                10TAB      20       0       0      3      0       0     0       0      17      0     212    1202   (-12) 
+B STABLE TAB                  10TAB       0       0       0      0      0       0     0       0       0      0       0       0       0 
+BIO ANXIT CZ 0.25 TAB         10TAB       0       0       0      0      0       0     0       0       0      0       0       0       0 
+BIO ANXIT CZ 0.5 TAB          10TAB       0       0       0      0      0       0     0       0       0      0       0       0       0 
+BIO ANXIT TAB                 10TAB     106       0       0     58      0       0     0       0      48     69    3355    2777      39 
+BIO SODA TAB                  10TAB      18       0       0      9      0       0     0       0       9      8     231     231       4 
+BIOBETA AM TAB                10TAB       0       0       0      0      0       0     0       0       0      0       0       0       0 
+BIOMET G1 FORTE TAB           10TAB       0       0       0      0      0       0     0       0       0      0       0       0       0 
+BIOMET G1 P TAB               10TAB       0       0       0      0      0       0     0       0       0      0       0       0       0 
+BIOMET G1 TAB                 10TAB       0       0       0      0      0       0     0       0       0      0       0       0       0 
+BIOMET G2 FORTE TAB           10TAB       0       0       0      0      0       0     0       0       0      0       0       0       0 
+BIOMET G2 P TAB               10TAB       0       0       0      0      0       0     0       0       0      0       0       0       0 
+BIOMET G2 TAB                 10TAB       0       0       0      0      0       0     0       0       0      0       0       0       0 
+BIOMET PG TAB                 10TAB       0       0       0      0      0       0     0       0       0      0       0       0       0 
+BIOMET V 0.3 TAB              10TAB       0       0       0      0      0       0     0       0       0      0       0       0       0 
+BIOMMF TAB                    10TAB       0       0       0      0      0       0     0       0       0      0       0       0       0 
+BIOPLAT TAB                   10TAB       0       0       0      0      0       0     0       0       0      0       0       0       0 
+BIOPRE NT TAB                 10TAB       0       0       0      0      0       0     0       0       0      0       0       0       0 
+BIOTENLY 20 TAB               10TAB       0       0       0      0      0       0     0       0       0      0       0       0       0 
+BIOTENLY M FORTE TAB          10TAB       0       0       0      0      0       0     0       0       0      0       0       0       0 
+BIOTENLY M TAB                10TAB       0       0       0      0      0       0     0       0       0      0       0       0       0 
+BIOTRAZ 200 CAP               10CAP      13      20       0     10      0       0     0       0      23     10     857    1971    (-8) 
+BIOVILDA 100 SR TAB           10TAB       0       0       0      0      0       0     0       0       0      0       0       0       0 
+BIOVILDA 50 TAB               10TAB       0       0       0      0      0       0     0       0       0      0       0       0       0 
+BIOVILDA M TAB                10TAB       0       0       0      0      0       0     0       0       0      0       0       0       0 
+BIOVILDA MSR TAB              10TAB       0       0       0      0      0       0     0       0       0      0       0       0       0 
+BIOXIGA 10 TAB                10TAB      11       0       0      0      0       0     0       0      11      6       0    1131   (-11) 
+BIOXIGA M TAB                 10TAB       0       0       0      0      0       0     0       0       0      0       0       0       0 
+BKETA 10 TAB                  10TAB       0       0       0      0      0       0     0       0       0      0       0       0       0 
+BKETA DT TAB                  10TAB       0       0       0      0      0       0     0       0       0      0       0       0       0 
+BPAM 10 MG TAB                10TAB      36       0       0     26      0       0     0       0      10     13    1400     539      29 
+BSOX SYP                      100ML       0       0       0      0      0       0     0       0       0      0       0       0       0 
+CAPILLUS FORTE TAB            10TAB      30       0       0     22      0       0     0       0       8     20    2953    1074      25 
+CDH FORTE TAB                 10TAB      27       1       0     11      0       0     0       0      17     19     919    1421       0 
+DIEXOMET G1 TAB               10TAB       0       0       0      0      0       0     0       0       0      0       0       0       0 
+DIEXOMET G2 TAB               10TAB       0       0       0      0      0       0     0       0       0      0       0       0       0 
+DIEXOMET GV 2.2 TAB           10TAB       0       0       0      0      0       0     0       0       0      0       0       0       0 
+DIEXOMET GV 2.3 TAB           10TAB       0       0       0      0      0       0     0       0       0      0       0       0       0 
+E TEGO TAB                    10TAB       0       0       0      0      0       0     0       0       0      0       0       0       0 
+ETIWELL 0.25 TAB              10TAB       5       0       0      0      0       0     0       0       5      0       0      96    (-5) 
+ETIWELL 0.5 TAB               10TAB      20       0       0      2      0       0     0       0      18      0      57     509   (-15) 
+GTT KIT                       75GM        0       0       0      0      0       0     0       0       0      0       0       0       0 
+L URIDE TAB                   10TAB      23      30       0     20      0       0     0       0      33     25     848    1400    (-3) 
+LOSWAT PWD                    200GM       0       0       0      0      0       0     0       0       0      0       0       0       0 
+R ZOLE 20 TAB                 10TAB       0       0       0      0      0       0     0       0       0      0       0       0       0 
+R ZOLE D TAB                  10TAB      35       0       0     22      0       0     0       0      13     20    1042     616      20 
+R ZOLE DSR CAP                10CAP      12      10       0     12      0       0     0       0      10      7     679     566       8 
+                                                                                                                                      ABHISHEK DISTRIBUTORS                                                                                                                
+Stock & Sales Statement  For All Branch                                                                                                
+from date 01/08/2023 To : 31/08/2023                                                                                                   
+BIOS LAB GENERAL                                                                                                                      
+Run Date : 01/09/2023 02:41 PM  Run at : HEAD OFFICE             Page No : 3                                                           
+---------------------------------------------------------------------------------------------------------------------------------------
+Item Name                     Pack  Opening Receipt Company C.Month Sales C.Month Repl.Goods In Closing LMonth  Sales   Closing Reorder
+                                                     Return   Sale  Inst. FreeSale Qty.Transit  Balance Sales   Value    Value  *      
+---------------------------------------------------------------------------------------------------------------------------------------
+R ZOLE L CAP                  10CAP       0       0       0      0      0       0     0       0       0      0       0       0       0 
+ROZTOR 10 TAB                 10TAB       0       0       0      0      0       0     0       0       0      0       0       0       0 
+ROZTOR 5 TAB                  10TAB       0       0       0      0      0       0     0       0       0      0       0       0       0 
+ROZTOR A TAB                  10TAB       0       0       0      0      0       0     0       0       0      0       0       0       0 
+STELLA 60K TAB                4TAB       17      20       0     17      0       0     0       0      20     18    1117    1342       6 
+TELEXA 40 TAB                 10TAB       8       0       0      8      0       0     0       0       0      6     339       0      12 
+TELEXA 80 H TAB               10TAB       0       0       0      0      0       0     0       0       0      0       0       0       0 
+TELEXA 80 TAB                 10TAB       0       0       0      0      0       0     0       0       0      0       0       0       0 
+TELEXA AM TAB                 10TAB       0       0       0      0      0       0     0       0       0      0       0       0       0 
+TELEXA H 40 TAB               10TAB      30       0       0      0      0       0     0       0      30     10       0    1485   (-30) 
+TELEXA M 25 TAB               10TAB       0       0       0      0      0       0     0       0       0      0       0       0       0 
+TELEXA M 50 TAB               10TAB       0       0       0      0      0       0     0       0       0      0       0       0       0 
+TILCEF 250 TAB                10TAB      39      20       0     42      0       0     0       0      17     38    6534    2645      46 
+TILCEF 500 TAB                10TAB       0       0       0      0      0       0     0       0       0      0       0       0       0 
+VOLENT GEL                    30GM        0       0       0      0      0       0     0       0       0      0       0       0       0 
+VOLENT P TAB                  10TAB       0       0       0      0      0       0     0       0       0      0       0       0       0 
+VOLENT SP TAB                 10TAB       0       0       0      0      0       0     0       0       0      0       0       0       0 
+XEOZIA RD CAP                 10CAP       0       0       0      0      0       0     0       0       0      0       0       0       0 
+---------------------------------------------------------------------------------------------------------------------------------------
+Sales values :   20543.99     Closing Values :   20150.21   Reorder Values :   16735.59                                                
+Last Month Sales Value :   20854.33     Free Sales Value :       0.00                                                                  
+Purchase bill included values : DB-T-1704 Dt. 09/08/2023 ,DB-T1857 Dt. 18/08/2023   Values :    8089.67                                
+Sales and Last Month sales based on (Quantity * Rate) and Others Values on   (Quantity * Ptr)                                          
+Last Month sales between 01/07/2023 And 31/07/2023                                                                                     
+Reorder * = (C.Month Trade Sales * 1.5 ) -  Closing Balance (-ve qty. indicates excess stock.)                                         
+---------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                                      P                                                                                                                                   

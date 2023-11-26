@@ -1,0 +1,58 @@
+@
+MRENUKA DISTRIBUTORS                     
+Stock & Sales from 01/08/2023 to 31/08/2023 for : BIOS LAB PRIVATE LIMITED.         Page :   1
+------------------------------------------------------------------------------
+Product Name              Pack   LstSL  Open Recd. Sales Close  Order  Pend   
+------------------------------------------------------------------------------
+ACNETRET 10 TAB           10X1      46     3    24     -    27    -27     -  
+ACNETRET 20 TAB.          10X1      12    12    36    11    37    -37     -  
+ALVIZIME- M TAB           10X1       -   154     -     -   154   -154     -  
+ALVIZINE 10MG TAB.        10X1      44    39     -     -    39    -39     -  
+ALVIZINE 5MG TAB          10X1     261   200     -    69   131   -131     -   
+BEZELENE OINT.            15GM       -    30    24     -    54    -54     -  
+BIO-ITRA 100 TAB          10X1     120   145   148   145   148   -148     -  
+BIO-ITRA 200 TAB          10X1      78    70   146    26   190   -190     -   
+BIO-LIZOL CREAM           30GM       -   151     -     -   151   -151     -  
+BIOBIL 40 TAB.            10X1       -    38     -     -    38    -38     -  
+BIOBIL TAB.               10X1      62   141     -     -   141   -141     -  
+BIOKET 200 TAB            10X1       -    35     -     -    35    -35     - * 
+BIOKET CREAM              20GM       -     3     -     -     3     -3     -  
+BIOKET CREAM (N)          50GMX1     -     -   104    75    29    -29     -  
+BIOKET CREAM 50GM         50GMX1    65    38     -    21    17    -17     -  
+BIOKET SHAMPOO            75MLX1     3    43     -     3    40    -40     -  
+BIOKET SOAP               75GM       -    76     -     2    74    -74     -  
+BIOKET-S CREAM            20GM       -    45     -     -    45    -45     -  
+BIOTENLY-20 TAB           10X1       -    22     -     -    22    -22     -  
+BIOTENLY-M TAB.           10X1       -     7     -     -     7     -7     -  
+BSOX SYRUP                100ML      -    29     -     -    29    -29     -  
+CAPILLUS TAB              10X1       -    49     -     -    49    -49     -  
+CAPILLUS- FORTE TAB       10X1      32    51    60    60    51    -51     -  
+CAPILLUS- PRO SOLU.       60MLX1     6    14    34    22    26    -26     -  
+CAPILLUS-F LOSHAN         60ML       9    28    54    26    56    -56     - *
+CAPILLUS-M SOLU.          60MLX1     9    25    40    10    55    -55     -  
+F DIN 180 TAB             10X1      32    32     -    30     2     -2     -  
+F-TEX SOAP                75GM     473   192   540   333   399   -399     -  
+F-WASH SHAMPOO            100ML     33     4    12     4    12    -12     -  
+IOXI 30 TAB               10X1      44     8    66    24    50    -50     -  
+IUVINIA CREAM             50GM      59     6     1     2     5     -5     -  
+IUVINIA CREAM {N}         75GMX1     -    90     -    54    36    -36     -  
+LOISTO FACE WASH          70ML       -     1     -     -     1     -1     -  
+LOISTO FACE WASH NEW      70ML      74    55     -    53     2     -2     -  
+LUWES CREAM               15GM       -    63     -     -    63    -63     -  
+LUWES LITE CREAM          20GM       7    53     -     -    53    -53     -  
+STELLA 60K DPCO           4X1        -    91     -    51    40    -40     -  
+STELLA 60K TAB.           4X1        -     1     -     -     1     -1     -  
+TELEXA-M50 TAB.           10X1       -     1     -     -     1     -1     -  
+TEXGLOW GEL               20GM      44    50     -     5    45    -45     -  
+ULIGO CREAM               50GM      76    32    54    12    74    -74     -  
+ULIGO LOTION              100ML     26    56    24    25    55    -55     - *
+UV CACHER GEL             30GM      58    32    72    63    41    -41     -  
+XEBAC 250 TAB DPCO        6X1       13    92     -     -    92    -92     -  
+XEBAC 500 DPCO            3X1       12   143     -     -   143   -143     -  
+ZALOTER CREAM             30GM      74    92   102   112    82    -82     - *
+------------------------------------------------------------------------------
+Last Month Sales    1,36,098.58  Open. Value     2,86,461.08
+Receipt Value       1,53,715.00  Sales Value     1,20,050.44
+Closing Value       3,54,020.36  [Order Value +0.00 -354020.36 ]
+------------------------------------------------------------------------------
+ * - Near Expiry Product, # - Scheme On Product 

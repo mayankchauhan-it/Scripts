@@ -1,0 +1,36 @@
+@
+MUNITED ENTERPRISE,DHULE                 
+Stock & Sales from 01/08/2023 to 31/08/2023 for : BIOS LAB [ PUNE]                  Page :   1
+----------------------------------------------------------------------------------------
+Product Name              Pack   LstSL  Open Recd. Sales Close  Order  Pend Stk.Value   
+----------------------------------------------------------------------------------------
+ACNETRET 10 TAB           10         2    18    33    11    40    -40     -   4586.09  #
+ALVIZINE 10 MG TAB        10         7    16     -     2    14    -14     -    665.15  #
+ALVIZINE 5 MG TAB         10       153   123    60    65   118   -118     -   3737.48  #
+ALVIZINE M TABLET         10'S       -     -    55     -    55    -55     -   4355.74  #
+B-CLAMI TAB               10         -    38    71    77    32    -32     -   5759.85  #
+BIO-ITRA 100              10       135   126   115    75   166   -166     -  23903.73  #
+BIODUTA TAB               10        11    22    33    28    27    -27     -   2138.27  #
+BIOKET -200TAB            10         -    10    33    10    33    -33     -   3563.68  #
+BIOKET -S CREAM           20         -    30     -     -    30    -30     -   3024.00  #
+BIOKET SHAMPOO            75ML       -     8     -     3     5     -5     -    719.99  #
+BIOKET SOAP               75GM       -    19     -    18     1     -1     -     86.40  #
+CAPILLUS  TAB             10         -    11     -    11     0      0     -      0.00  #
+CAPILLUS F SOLUTION       60ML       -     5     -     4     1     -1     -    648.00  #
+CAPILLUS M SOLUTION       60ML       -    11     -     -    11    -11     -   6336.05  #
+CAPILLUS PRO              60ML       2     4     -     3     1     -1     -    648.00  #
+F DIN 180                 10        11    26     -    12    14    -14     -   1512.02  #
+F-TEX SOAP                75GM      12    25     -    24     1     -1     -     79.19  #
+F-WASH SHAMPOO            100ML      -     1     -     -     1     -1     -    144.00  #
+IOXI-30  TAB              10        24    33     -    11    22    -22     -   1425.46  #
+LUWES LITE CREAM          20GM       -     5    35    22    18    -18     -   3239.95  #
+ULIGO LOTION              100ML      -    11     -     -    11    -11     -   2512.73  #
+UV CACHER 30GM            30GM       8    11     -     3     8     -8     -   2879.96  #
+XEBAC 500 DPCO            3 TAB      7     4     -     -     4     -4     -    221.76  #
+ZALOTER CREAM             30GM      19    22    26    37    11    -11     -   1980.07  #
+----------------------------------------------------------------------------------------
+Last Month Sales      33,389.39  Open. Value       72,628.61
+Receipt Value         47,014.41  Sales Value       47,894.59
+Closing Value         74,167.56  [Order Value +0.00 -65727.47 ]
+----------------------------------------------------------------------------------------
+ * - Near Expiry Product, # - Scheme On Product 

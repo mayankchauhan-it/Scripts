@@ -1,0 +1,24 @@
+01/09/23 15:14:48          PAGE: 1
+                    JAIN DISTRIBUTORS,JALGAON
+                    BIOS LAB(DERMA)               
+STOCK & SALE REPORT FROM 01/08/23 TO 31/08/23 (Based on delivery dates)
+--------------------------------------------------------------------------
+ITEM NAME               BOX    PACK    OPQTY  P_QTY  REPL   S_QTY  B_QTY
+==========================================================================
+DIVISION NAME : BIOS LAB(DERMA)               
+
+BIO-ITRA 100 CAP        10*1   10CAP      22      0      0      2     20
+BIO-ITRA 200 CAP        10*1*1 10CAP       1      0      0      0      1
+BIO-LIZOL CREAM         1*1    30G         8      0      0      0      8
+BIOBIL TAB              10*1   10TAB      54      0      0     -8     62
+CAPILLUS-F TOPICAL SOLU 1*1    60ML        4      0      0      1      3
+CAPILLUS-FORTE TAB      1X10   10TAB       3      0      0      3      0
+F-TEX SOAP              1*1    75 GM      96      0      0     70     26
+ULIGO CREAM             1*1    50GM       15      0      0      0     15
+ULIGO LOTION            1*1    100ML       0      0      0      0      0
+UV CACHER 30GM          1PCS   1 PIC     174      0      0     18    156
+ZALOTER CREAM           1*1    30G         0      0      0      0      0
+==========================================================================
+                                      OP_VAL     P_VAL         S_VAL    B_VAL
+TOTAL AMOUNT                           72171         0          7693    61412
+==========================================================================

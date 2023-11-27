@@ -5,6 +5,8 @@ import os
 
 date_format = '26/03/23'
 
+pattern = r'(?:[A-Z\.] + (?:MEDICAL|CLINIC|MEDICINCE|MED|medical|Medicals|MEDICO|MEDICINS|DRUG|ESSENSE|ENTERPRISE|MEDICINE|SALES|TRUST|RAJURA|MEDICOS|JUNAGADH|ADIPUR|MEDICO\'S|PHRAMACY|CHEMIST|STORE|STORES|MED.STORE|MED.& GEN.STORE|MEDI&GEN|SURGICALS|WELLNESS BEAUTY HUB|HUB|DAVA|PHARMA|GEN|GENERAL|WELLNESS|HOSPITAL|AUSHADHI|VERAVAL|MED.|DOCTOR)|JETPUR|JAMJODHPUR|DWARKA|JAMNAGAR|JAM-JODHPUR|DHROL|DR|INDORE|MORBI|BRAMHAPURI|MUL|GADCHANDUR|RAJURA|CHIMUR|PRADHIKARAN|[CASH]|DR\..*)'
+    
 
 keywords = [
         r'MEDICAL|CLINIC|MEDICINCE|MED|medical|Medicals|MEDICO|MEDICINS|DRUG|ESSENSE|ENTERPRISE|MEDICINE|SALES|TRUST|RAJURA|MEDICOS|JUNAGADH|ADIPUR|MEDICO\'S|PHRAMACY|CHEMIST|STORE|STORES|MED.STORE|MED.& GEN.STORE|MEDI&GEN|SURGICALS|WELLNESS BEAUTY HUB|HUB|DAVA|PHARMA|GEN|GENERAL|WELLNESS|HOSPITAL|AUSHADHI|VERAVAL|MED.|DR\..*',
@@ -40,10 +42,11 @@ def find_reverse_index_by_date(date_format, my_list):
             return index 
     return -1  
 
-def copy_script_to_directory(destination,file_name):
+def copy_script_to_directory(script_path, destination,file_name):
     try:
         # Get the path of the currently running script
-        current_script_path = os.path.abspath(__file__)
+        # current_script_path = os.path.abspath(__file__)
+        current_script_path = script_path
 
         # Extract the script's filename without the full path
         script_filename = os.path.basename(current_script_path)

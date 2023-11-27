@@ -217,13 +217,13 @@ def main():
             if len(t_line) == 12:
                 T_medicine_name = " ".join(t_line[1:3]).strip()
 
-                if t_line[1] == "Sales":
+                if  t_line[1] == "Sales":
                     continue
-                elif t_line[1] == "Customer-Wise":
+                elif  t_line[1] == "Customer-Wise":
                     continue
-                elif t_line[1] == "Product-Wise":
+                elif  t_line[1] == "Product-Wise":
                     continue
-                elif t_line[1] == "Name":
+                elif  t_line[1] == "Name":
                     continue
 
                 rate = t_line[-3]

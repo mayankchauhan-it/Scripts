@@ -38,7 +38,7 @@ def main():
 
             # print(t_line)
             
-            # if len(t_line) > 1:
+            if len(t_line) > 1:
                 # print("Line", t_line)
                 # print("length", len(t_line), "\n")
 
@@ -62,148 +62,129 @@ def main():
 
                 #     # data.append([Stockiest_name, T_medical_name, T_medicine_name, FreeStrip, SalesQty, ReturnQty, ExpQty, DamageQty, rate, DivisionName])
 
-                # if len(t_line) == 11:
-                #     T_medicine_name = " ".join(t_line[0:2]).strip()
+                if len(t_line) == 11:
+                    ExpQty = "0"
+                    ReturnQty = "0"
+                    DamageQty = "0"
+                    DivisionName = "BIOS GENERAL"
 
-                #     if "Name" in T_medicine_name:
-                #         continue
+                    date_index = find_reverse_index_by_date(date_format, t_line)
 
-                #     rate = t_line[-2]
-                #     ExpQty = "0"
-                #     ReturnQty = "0"
-                #     DamageQty = "0"
-                #     DivisionName = "BIOS GENERAL"
+                    if date_index == 9:
+                        T_medicine_name = " ".join(t_line[-8:-6]).strip()
+                        if "Name" in T_medicine_name:
+                            continue
+                        rate = t_line[-2]
+                        SalesQty = t_line[-4]
 
-                #     date_index = find_reverse_index_by_date(date_format, t_line)
+                        FreeStrip = "0"
+                    else:
+                        FreeStrip = "0"
+                        SalesQty = t_line[-4]
 
-                #     if date_index == 5:
-                #         FreeStrip = "0"
-                #         SalesQty = t_line[-3]
-                #     else:
-                #         FreeStrip = t_line[-3]
-                #         SalesQty = t_line[-4]
+                    # print("date_index", date_index)
+                    # print("Line : ",t_line)
+                    # print("Medicine Name : ",T_medicine_name)
+                    # print("SalesQty : ",SalesQty)
+                    # print("FreeStrip : ",FreeStrip)
+                    # print("rate : ",rate)
+                    # print(len(t_line) , "\n")
+                    data.append([Stockiest_name, T_medical_name, T_medicine_name, FreeStrip, SalesQty, ReturnQty, ExpQty, DamageQty, rate, DivisionName])
 
-                #     # print("date_index", date_index)
-                #     # print("Line : ",t_line)
-                #     # print("Medicine Name : ",T_medicine_name)
-                #     # print("SalesQty : ",SalesQty)
-                #     # print("FreeStrip : ",FreeStrip)
-                #     # print("rate : ",rate)
-                #     # print(len(t_line) , "\n")
-                #     data.append([Stockiest_name, T_medical_name, T_medicine_name, FreeStrip, SalesQty, ReturnQty, ExpQty, DamageQty, rate, DivisionName])
+                if len(t_line) == 12:
 
-                # if len(t_line) == 12:
-                #     T_medicine_name = " ".join(t_line[0:2]).strip()
+                    if "type" in t_line:
+                        continue
 
-                #     if "Name" in T_medicine_name:
-                #         continue
-                #     elif  "Customer-Wise" in T_medicine_name:
-                #         continue
-                #     elif  "Product-Wise" in T_medicine_name:
-                #         continue
-                #     elif  "Product-Wise" in T_medicine_name:
-                #         continue
-                    
+                    ExpQty = "0"
+                    ReturnQty = "0"
+                    DamageQty = "0"
+                    DivisionName = "BIOS GENERAL"
 
-                #     rate = t_line[-2]
-                #     ExpQty = "0"
-                #     ReturnQty = "0"
-                #     DamageQty = "0"
-                #     DivisionName = "BIOS GENERAL"
+                    date_index = find_reverse_index_by_date(date_format, t_line)
 
-                #     date_index = find_reverse_index_by_date(date_format, t_line)
+                    if date_index == 10:
+                        T_medicine_name = " ".join(t_line[-9:-7]).strip()
+                        if "Name" in T_medicine_name:
+                            continue
+                        rate = t_line[-2]
+                        SalesQty = t_line[-4]
 
-                #     if date_index == 5:
-                #         FreeStrip = "0"
-                #         SalesQty = t_line[-3]
-                #     else:
-                #         FreeStrip = t_line[-3]
-                #         SalesQty = t_line[-4]
+                        FreeStrip = "0"
+                    else:
+                        FreeStrip = "0"
+                        SalesQty = t_line[-4]
 
-                #     # print("date_index", date_index)
-                #     # print("Line : ",t_line)
-                #     # print("Medicine Name : ",T_medicine_name)
-                #     # print("SalesQty : ",SalesQty)
-                #     # print("FreeStrip : ",FreeStrip)
-                #     # print("rate : ",rate)
-                #     # print(len(t_line) , "\n")
-                #     data.append([Stockiest_name, T_medical_name, T_medicine_name, FreeStrip, SalesQty, ReturnQty, ExpQty, DamageQty, rate, DivisionName])
+                    # print("date_index", date_index)
+                    # print("Line : ",t_line)
+                    # print("Medicine Name : ",T_medicine_name)
+                    # print("SalesQty : ",SalesQty)
+                    # print("FreeStrip : ",FreeStrip)
+                    # print("rate : ",rate)
+                    # print(len(t_line) , "\n")
+                    data.append([Stockiest_name, T_medical_name, T_medicine_name, FreeStrip, SalesQty, ReturnQty, ExpQty, DamageQty, rate, DivisionName])
 
-                # if len(t_line) == 13:
-                #     T_medicine_name = " ".join(t_line[0:3]).strip()
+                if len(t_line) == 13:
+                    if "wise" in t_line:
+                        continue
 
-                #     if "Name" in T_medicine_name:
-                #         continue
-                #     elif  "Customer-Wise" in T_medicine_name:
-                #         continue
-                #     elif  "Product-Wise" in T_medicine_name:
-                #         continue
-                #     elif  "Product-Wise" in T_medicine_name:
-                #         continue
-                    
+                    ExpQty = "0"
+                    ReturnQty = "0"
+                    DamageQty = "0"
+                    DivisionName = "BIOS GENERAL"
 
-                #     rate = t_line[-3]
-                #     ExpQty = "0"
-                #     ReturnQty = "0"
-                #     DamageQty = "0"
-                #     DivisionName = "BIOS GENERAL"
+                    date_index = find_reverse_index_by_date(date_format, t_line)
 
-                #     date_index = find_reverse_index_by_date(date_format, t_line)
+                    if date_index == 11:
+                        T_medicine_name = " ".join(t_line[-10:-7]).strip()
+                        if "Name" in T_medicine_name:
+                            continue
+                        rate = t_line[-2]
+                        SalesQty = t_line[-4]
 
+                        FreeStrip = "0"
+                    else:
+                        FreeStrip = "0"
+                        SalesQty = t_line[-4]
 
-                #     if date_index == 6:
-                #         FreeStrip = "0"
-                #         SalesQty = t_line[-4]
-                #     else:
-                #         FreeStrip = t_line[-4]
-                #         SalesQty = t_line[-5]
-
-                #     # print("date_index", date_index)
-                #     # print("Line : ",t_line)
-                #     # print("Medicine Name : ",T_medicine_name)
-                #     # print("SalesQty : ",SalesQty)
-                #     # print("FreeStrip : ",FreeStrip)
-                #     # print("rate : ",rate)
-                #     # print(len(t_line) , "\n")
-                #     data.append([Stockiest_name, T_medical_name, T_medicine_name, FreeStrip, SalesQty, ReturnQty, ExpQty, DamageQty, rate, DivisionName])
+                    # print("date_index", date_index)
+                    # print("Line : ",t_line)
+                    # print("Medicine Name : ",T_medicine_name)
+                    # print("SalesQty : ",SalesQty)
+                    # print("FreeStrip : ",FreeStrip)
+                    # print("rate : ",rate)
+                    # print(len(t_line) , "\n")
+                    data.append([Stockiest_name, T_medical_name, T_medicine_name, FreeStrip, SalesQty, ReturnQty, ExpQty, DamageQty, rate, DivisionName])
                 
-                # if len(t_line) == 14:
-                #     T_medicine_name = " ".join(t_line[0:3]).strip()
+                if len(t_line) == 14:
 
-                #     if "Name" in T_medicine_name:
-                #         continue
-                #     elif  "Customer-Wise" in T_medicine_name:
-                #         continue
-                #     elif  "Product-Wise" in T_medicine_name:
-                #         continue
-                #     elif  "Product-Wise" in T_medicine_name:
-                #         continue
-                    
+                    ExpQty = "0"
+                    ReturnQty = "0"
+                    DamageQty = "0"
+                    DivisionName = "BIOS GENERAL"
 
-                #     rate = t_line[-3]
-                #     ExpQty = "0"
-                #     ReturnQty = "0"
-                #     DamageQty = "0"
-                #     DivisionName = "BIOS GENERAL"
+                    date_index = find_reverse_index_by_date(date_format, t_line)
 
-                #     date_index = find_reverse_index_by_date(date_format, t_line)
+                    if date_index == 12:
+                        T_medicine_name = " ".join(t_line[-11:-8]).strip()
+                        if "Name" in T_medicine_name:
+                            continue
+                        rate = t_line[-2]
+                        SalesQty = t_line[-4]
 
+                        FreeStrip = "0"
+                    else:
+                        FreeStrip = "0"
+                        SalesQty = t_line[-4]
 
-                #     if date_index == 6:
-                #         FreeStrip = "0"
-                #         SalesQty = t_line[-4]
-                #     else:
-                #         FreeStrip = t_line[-4]
-                #         SalesQty = t_line[-5]
-
-                #     # print("date_index : ",date_index)
-                #     # print("Line : ",t_line)
-                #     # print("Medicine Name : ",T_medicine_name)
-                #     # print("SalesQty : ",SalesQty)
-                #     # print("FreeStrip : ",FreeStrip)
-                #     # print("rate : ",rate)
-                #     # print(len(t_line) , "\n")
-                #     data.append([Stockiest_name, T_medical_name, T_medicine_name, FreeStrip, SalesQty, ReturnQty, ExpQty, DamageQty, rate, DivisionName])
+                    # print("date_index : ",date_index)
+                    # print("Line : ",t_line)
+                    # print("Medicine Name : ",T_medicine_name)
+                    # print("SalesQty : ",SalesQty)
+                    # print("FreeStrip : ",FreeStrip)
+                    # print("rate : ",rate)
+                    # print(len(t_line) , "\n")
+                    data.append([Stockiest_name, T_medical_name, T_medicine_name, FreeStrip, SalesQty, ReturnQty, ExpQty, DamageQty, rate, DivisionName])
 
             # else:
             #    continue

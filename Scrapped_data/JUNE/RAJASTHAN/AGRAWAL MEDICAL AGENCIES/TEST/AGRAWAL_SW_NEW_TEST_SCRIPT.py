@@ -3,6 +3,8 @@ import pdfplumber
 import pandas as pd
 import os
 import shutil
+import time
+
 
 class PDFParser:
     def __init__(self, pdf_file_path):
@@ -74,6 +76,9 @@ class DataProcessor:
             print(f"An error occurred: {e}")
 
 def main():
+
+    start_time = time.time()  # Record start time
+
     folder_name = "AGRAWAL MEDICAL AGENCIES"
     stockiest_name = folder_name
     file_name = "AGRAWAL_SW"
@@ -89,5 +94,11 @@ def main():
     destination_directory = f"Scrapped_data/JUNE/RAJASTHAN/{folder_name}/TEST/"
     data_processor.copy_script_to_directory(destination_directory)
 
+    end_time = time.time()  # Record end time
+    execution_time = end_time - start_time
+    print(f"Total execution time: {execution_time} seconds")
+
 if __name__ == "__main__":
     main()
+
+

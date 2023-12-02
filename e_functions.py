@@ -1,6 +1,6 @@
 import shutil
 import os
-
+import pandas as pd
 
 
 date_format = '26/03/23'
@@ -27,7 +27,17 @@ def parse_text_file(txt_file_path):
     except Exception as e:
         print(f"An error occurred: {str(e)}")
 
+def parse_excel(file_path, sheet_name):
+    try:
+        # Read the Excel file into a DataFrame starting from the 4th row
+        df = pd.read_excel(file_path, sheet_name=sheet_name, skiprows=3)
 
+        # Return the DataFrame for further processing
+        return df
+
+    except Exception as e:
+        print(f"Error parsing Excel file: {e}")
+        return None
 
 def find_index_by_date(date_format, my_list):
     for index, item in enumerate(my_list):
